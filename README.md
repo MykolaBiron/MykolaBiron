@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Schmal4ik
+- 👋 Hi, I’m Mykola Biron
 - 👀 I’m interested in data analysis and web development 
 - 🌱 I’m currently learning django framework
 
