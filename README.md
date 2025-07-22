@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Mykola Biron
-- 👀 I’m interested in data analysis and web development 
-- 🌱 I’m currently learning django framework
+- 👀 I’m interested in data analysis, statistics 📊 and web development 
+- 🌱 I’m currently learning django framework and Spanish🇪🇸
 
-<!---
-Schmal4ik/Schmal4ik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
