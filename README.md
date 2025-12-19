@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mykola Biron
-- 👀 I’m interested in data analysis, statistics 📊 and web development
+- 👀 I’m interested in Data Science, statistics 📊 and web development
 - 💻 I’m currently learning Django framework and Spanish
 - Tech stack:
   
@@ -8,8 +8,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-PyTorch 
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 
