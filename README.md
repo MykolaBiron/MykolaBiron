@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mykola Biron
-- 👀 I’m interested in Data Science, statistics 📊 and web development
+- 👀 I’m interested in Data Science, statistics 📊 and web development.
+- I am working as a research student assistant in a AI Project.
 - 💻 I’m currently learning Django framework and Spanish
 - Tech stack:
   
