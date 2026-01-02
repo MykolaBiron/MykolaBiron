@@ -16,7 +16,7 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaBiron&show_icons=true&theme=github_dark)
+![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=github_dark)
 
 
 
