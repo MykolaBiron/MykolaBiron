@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mykola Biron
+- I'm currently working on energy consumption forecasting with Deep Learning
 - 👀 I’m interested in Data Science, statistics 📊 and web development.
-- I am working as a research student assistant in a AI Project.
 - 💻 I’m currently learning Django framework and Spanish
 - Tech stack:
   
@@ -12,7 +12,12 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Mykola's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=default)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=github_dark)
+
 
 
 
