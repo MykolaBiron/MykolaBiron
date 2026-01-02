@@ -1,24 +1,64 @@
-- 👋 Hi, I’m Mykola Biron
-- I'm currently working on energy consumption forecasting with Deep Learning
-- 👀 I’m interested in Data Science, statistics 📊 and web development.
-- 💻 I’m currently learning Django framework and Spanish
-- Tech stack:
-  
+# 👋 Hi, I’m Mykola Biron
+
+🎓 **Computer Science student at HAW Hamburg**  
+🔬 **Research Student Assistant (AI Project)**  
+⚡ **Energy Consumption Forecasting with Deep Learning**
+
+---
+
+## 🧠 About Me
+
+I am a Computer Science student with a strong interest in **Data Science, statistics, and applied machine learning**.  
+Currently, I work as a **research student assistant** on an AI project focused on **energy consumption forecasting using deep learning models**.
+
+I enjoy building **end-to-end ML systems**, from data preprocessing and modeling to deployment and visualization.
+
+---
+
+## 🔍 Research & Interests
+
+- 📈 Time series forecasting
+- ⚡ Energy demand & load prediction
+- 🤖 Deep Learning (CNNs, RNNs, Transformers)
+- 📊 Data analysis & statistical modeling
+- 🌐 Web development for ML applications
+
+---
+
+## 🌱 Currently Learning
+
+- 🧩 **Django** (backend & ML integration)
+- 🇪🇸 **Spanish**
+
+---
+
+## 🛠️ Tech Stack
+
+### Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
+### Backend & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+## 📊 GitHub Stats
 
 ![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=github_dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolabiron&layout=compact&theme=github_dark)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=mykolabiron&theme=github-dark)
 
+---
 
+## 📫 Get in Touch
 
+- 💼 Interested in **AI research**, **data science**, or **ML engineering**
+- 🤝 Open to collaboration on research or applied ML projects
+
+Feel free to explore my repositories or reach out!
