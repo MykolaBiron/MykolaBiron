@@ -50,8 +50,6 @@ I enjoy building **end-to-end ML systems**, from data preprocessing and modeling
 
 ![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolabiron&layout=compact&theme=github_dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mykolabiron&theme=github-dark)
 
 ---
