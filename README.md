@@ -42,15 +42,7 @@ I enjoy building **end-to-end ML systems**, from data preprocessing and modeling
 
 ### Backend & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Mykola Biron's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykolabiron&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mykolabiron&theme=github-dark)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ---
 
