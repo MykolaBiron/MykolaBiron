@@ -14,7 +14,7 @@ Currently, I work as a **research student assistant** on an AI project focused o
 I enjoy building **end-to-end ML systems**, from data preprocessing and modeling to deployment and visualization.
 
 ---
-Check my personal portfolio at https://mykolabiron.com/
+Visit my personal portfolio at https://mykolabiron.com/
 
 ## 🔍 Research & Interests
 
