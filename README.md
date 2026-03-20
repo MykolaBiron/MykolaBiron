@@ -28,8 +28,8 @@ Visit my personal portfolio at https://mykolabiron.com/
 
 ## 🌱 Currently Learning
 
-- 🧩 **PyTorch** (backend & ML integration)
-- 🇪🇸 **Azure**
+- **PyTorch** (backend & ML integration)
+-  **Azure**
 
 ---
 
