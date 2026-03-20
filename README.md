@@ -21,8 +21,7 @@ Visit my personal portfolio at https://mykolabiron.com/
 - 📈 Time series forecasting
 - ⚡ Energy demand & load prediction
 - 🤖 Deep Learning (CNNs, RNNs, Transformers)
-- 📊 Data analysis & statistical modeling
-- 🌐 Web development for ML applications
+- 🌐 Backend web development with SpringBoot
 
 ---
 
