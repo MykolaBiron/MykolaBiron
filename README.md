@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mykola Biron
 
 🎓 **Computer Science student at HAW Hamburg**  
-🔬 **Research Student Assistant (AI Project)**  
-⚡ **Energy Consumption Forecasting with Deep Learning**
+🔬 **Research Student Assistant (Energy Consumption Forecasting with Deep Learning)**  
+⚡ **Backend development with SpringBoot**
 
 ---
 
