@@ -18,10 +18,10 @@ Visit my personal portfolio at https://mykolabiron.com/
 
 ## 🔍 Research & Interests
 
+- 🌐 Backend web development with SpringBoot
 - 📈 Time series forecasting
 - ⚡ Energy demand & load prediction
 - 🤖 Deep Learning (CNNs, RNNs, Transformers)
-- 🌐 Backend web development with SpringBoot
 
 ---
 
