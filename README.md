@@ -25,12 +25,10 @@ Visit my personal portfolio at https://mykolabiron.com/
 
 ---
 
-## 🌱 Currently Learning
+## 🌐 Check out my AI ATS cheker website for Germany
 
-- **PyTorch** (backend & ML integration)
--  **Azure**
+- **LebenslaufMeister** https://lebenslaufmeister.de/
 
----
 
 ## 🛠️ Tech Stack
 ### Languages
