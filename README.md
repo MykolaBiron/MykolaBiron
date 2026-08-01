@@ -9,7 +9,6 @@
 ## 🧠 About Me
 
 I am a Computer Science student with a strong interest in **Data Science, statistics, and applied machine learning**.  
-Currently, I work as a **research student assistant** on an AI project focused on **energy consumption forecasting using deep learning models**.
 
 I enjoy building **end-to-end ML systems**, from data preprocessing and modeling to deployment and visualization.
 
