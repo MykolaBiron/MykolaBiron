@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mykola Biron
 
 🎓 **Computer Science student at HAW Hamburg**  
-🔬 **Research Student Assistant (Energy Consumption Forecasting with Deep Learning)**  
+🔬 **Working Student Otto GmBH(Cloud & Sodtware Development)**  
 ⚡ **Backend development with SpringBoot**
 
 ---
