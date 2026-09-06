@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mykola Biron
 
 🎓 **Computer Science student at HAW Hamburg**  
-🔬 **Working Student Otto GmBH(Cloud & Sodtware Development)**  
+🔬 **Working Student @ Otto GmbH (Software Engineering & Cloud)**  
 ⚡ **Backend development with SpringBoot**
 
 ---
@@ -24,7 +24,7 @@ Visit my personal portfolio at https://mykolabiron.com/
 
 ---
 
-## 🌐 Check out my AI ATS cheker website for Germany
+## 🌐 Check out my AI ATS Checker website for Germany
 
 - **LebenslaufMeister** https://lebenslaufmeister.de/
 
