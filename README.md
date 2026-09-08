@@ -2,13 +2,13 @@
 
 🎓 **Computer Science student at HAW Hamburg**  
 🔬 **Working Student @ Otto GmbH (Software Engineering & Cloud)**  
-⚡ **Backend development with SpringBoot**
+⚡ **Backend development with Java**
 
 ---
 
 ## 🧠 About Me
 
-I am a Computer Science student with a strong interest in **Data Science, statistics, and applied machine learning**.  
+I am a Computer Science student with a strong interest in **Software Engineering, Cloud technologies, and applied machine learning**.  
 
 I enjoy building **end-to-end ML systems**, from data preprocessing and modeling to deployment and visualization.
 
@@ -17,10 +17,10 @@ Visit my personal portfolio at https://mykolabiron.com/
 
 ## 🔍 Research & Interests
 
-- 🌐 Backend web development with SpringBoot
+- 🌐 Backend web development with Java and SpringBoot
 - 📈 Time series forecasting
 - ⚡ Energy demand & load prediction
-- 🤖 Deep Learning (CNNs, RNNs, Transformers)
+- 🤖 Deep Learning with Python (CNNs, RNNs, Transformers)
 
 ---
 
