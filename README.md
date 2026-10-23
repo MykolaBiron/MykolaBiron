@@ -1,33 +1,47 @@
 # 👋 Hi, I’m Mykola Biron
 
-🎓 **Computer Science student at HAW Hamburg**  
-🔬 **Working Student @ Otto GmbH (Software Engineering & Cloud)**  
-⚡ **Backend development with Java**
+🎓 **B.Sc. Computer Science student at HAW Hamburg** 
+💼 **Working Student, Software Engineering @ Otto GmbH**  
+⚡ **Backend development, cloud infrastructure & networking**
 
 ---
 
 ## 🧠 About Me
 
-I am a Computer Science student with a strong interest in **Software Engineering, Cloud technologies, and applied machine learning**.  
+I am a Computer Science student based in Hamburg with a strong interest in **backend engineering, distributed systems, networking, and cloud infrastructure**.
 
-I enjoy building **end-to-end ML systems**, from data preprocessing and modeling to deployment and visualization.
+At Otto GmbH I work on Java / Spring Boot backend services on AWS (ALB + CloudFront), analyze Kafka event data in Amazon Redshift, and build low-level Linux tooling in C++. Previously, as a research assistant at HAW Hamburg.
 
 ---
 Visit my personal portfolio at https://mykolabiron.com/
 
-## 🔍 Research & Interests
+## 🚀 Projects
 
-- 🌐 Backend web development with Java and SpringBoot
-- 📈 Time series forecasting
-- ⚡ Energy demand & load prediction
-- 🤖 Deep Learning with Python (CNNs, RNNs, Transformers)
+### Distributed Edge Rate Limiting & Traffic Shaping Gateway
+*Python, Redis, Docker*
+
+- Horizontally-scalable edge-tier gateway sustaining **50,000+ requests/second at sub-2ms P95 latency**, using atomic Redis Lua scripts to eliminate race conditions
+- 5 strategies: token bucket, leaky bucket, sliding window, fixed window, composite, plus geo-aware routing and CDN header parsing
+- Multi-instance deployment behind a load balancer, Prometheus monitoring, and 511+ unit, integration, and load tests
+
+### ResumeFirst (LebenslaufMeister)
+*Python, JavaScript, React, Node.js*
+
+- Founded and built a GenAI SaaS platform that optimizes resumes for DACH ATS systems, growing from 0 to **500+ monthly active users in 3 months**
+- RAG pipeline using Mistral embeddings and cosine similarity search to ground LLM suggestions in an ATS best-practice knowledge base
+- 🌐 https://lebenslaufmeister.de/
 
 ---
 
-## 🌐 Check out my AI ATS Checker website for Germany
+## 🔍 Interests
 
-- **LebenslaufMeister** https://lebenslaufmeister.de/
+- 🌐 Backend web development with Java and Spring Boot
+- 🛰️ Networking: TCP/IP, BGP, IS-IS, VLANs, load balancing, CDN caching
+- ☁️ Cloud & distributed systems on AWS
+- 🐧 Linux internals: cgroups, network namespaces, raw sockets
+- 🤖 Applied machine learning and GenAI
 
+---
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -36,25 +50,31 @@ Visit my personal portfolio at https://mykolabiron.com/
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### Backend & Tools
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-1A1A1A?style=for-the-badge&logo=micronaut&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud, Infrastructure & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ---
 
 ## 📫 Get in Touch
 
-- 💼 Interested in **AI research**, **data science**, or **ML engineering**
-- 🤝 Open to collaboration on research or applied ML projects
+- 💼 Open to **software engineering**, **backend**, **cloud**, and **networking** internships and opportunities
+- 📧 mykolabiron@gmail.com
 
 Feel free to explore my repositories or reach out!
