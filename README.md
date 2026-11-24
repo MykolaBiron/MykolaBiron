@@ -27,7 +27,7 @@ Visit my personal portfolio at https://mykolabiron.com/
 ### ResumeFirst (LebenslaufMeister)
 *Python, JavaScript, React, Node.js*
 
-- Founded and built a GenAI SaaS platform that optimizes resumes for DACH ATS systems, growing from 0 to **500+ monthly active users in 3 months**
+- Founded and built a GenAI SaaS platform that optimizes resumes for DACH ATS systems
 - RAG pipeline using Mistral embeddings and cosine similarity search to ground LLM suggestions in an ATS best-practice knowledge base
 - 🌐 https://lebenslaufmeister.de/
 
